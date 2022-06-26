@@ -24,9 +24,9 @@
 				<span class="material-icons">dataset</span>
 				<span class="text">Data Peminjam</span>
 			</router-link>
-			<router-link to="/riwayatpeminjaman" class="button">
+			<router-link to="/riwayatpengembalian" class="button">
 				<span class="material-icons">timer</span>
-				<span class="text">Riwayat Peminjam</span>
+				<span class="text">Riwayat Pengembalian</span>
 			</router-link>
 			<router-link to="/about" class="button">
 				<span class="material-icons">expand_circle_down</span>

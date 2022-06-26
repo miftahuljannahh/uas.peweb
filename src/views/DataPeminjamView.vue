@@ -10,7 +10,6 @@
       <th scope="col">Angkatan</th>
       <th scope="col">Kelas</th>
       <th scope="col">Tanggal Pinjam</th>
-      <th scope="col">Tanggal Kembali</th>
       <th scope="col">Aksi</th>
     </tr>
     </thead>
@@ -21,7 +20,6 @@
       <td>2020</td>
       <td>C</td>
       <td>16 juni 2022</td>
-      <td>20 juni 2022</td>
       <td>
       <div class="d-inline">
           <button class="btn btn-primary btn-sm">Terima</button>
@@ -36,7 +34,6 @@
       <td>2020</td>
       <td>C</td>
       <td>22 juni 2022</td>
-      <td>27 juni 2022</td>
       <td>
       <div class="d-inline">
           <button class="btn btn-primary btn-sm">Terima</button>

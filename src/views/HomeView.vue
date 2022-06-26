@@ -7,6 +7,8 @@
                 <h5 class="card-title">Laptop</h5>
                 <div class="d-inline">
                   <button class="btn btn-primary btn-sm">Detail</button>
+                | <button class="btn btn-success btn-sm">Edit</button> |
+                  <button class="btn btn-danger btn-sm">Hapus</button>
                 </div>
             </div>
       </div>
@@ -18,6 +20,8 @@
                 <h5 class="card-title">Tablet</h5>
                 <div class="d-inline">
                   <button class="btn btn-primary btn-sm">Detail</button>
+                | <button class="btn btn-success btn-sm">Edit</button> |
+                  <button class="btn btn-danger btn-sm">Hapus</button>
                 </div>
             </div>
       </div>
@@ -29,6 +33,8 @@
                 <h5 class="card-title">kamera</h5>
                 <div class="d-inline">
                   <button class="btn btn-primary btn-sm">Detail</button>
+                | <button class="btn btn-success btn-sm">Edit</button> |
+                  <button class="btn btn-danger btn-sm">Hapus</button>
                 </div>
             </div>
     </div>
@@ -40,6 +46,8 @@
                 <h5 class="card-title">Proyektor</h5>
                 <div class="d-inline">
                   <button class="btn btn-primary btn-sm">Detail</button>
+                | <button class="btn btn-success btn-sm">Edit</button> |
+                  <button class="btn btn-danger btn-sm">Hapus</button>
                 </div>
             </div>
     </div>
@@ -51,6 +59,8 @@
                 <h5 class="card-title">Speaker</h5>
                 <div class="d-inline">
                   <button class="btn btn-primary btn-sm">Detail</button>
+                | <button class="btn btn-success btn-sm">Edit</button> |
+                  <button class="btn btn-danger btn-sm">Hapus</button>
                 </div>
             </div>
       </div>

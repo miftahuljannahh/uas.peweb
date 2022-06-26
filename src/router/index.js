@@ -3,7 +3,7 @@ import Home from '../views/HomeView.vue'
 import About from '../views/AboutView.vue'
 import InputBarang from '../views/InputBarangView.vue' 
 import DataPeminjam from '../views/DataPeminjamView.vue'
-import RiwayatPeminjaman from '../views/RiwayatPeminjamanView.vue'
+import RiwayatPengembalian from '../views/RiwayatPengembalianView.vue'
 
 const router = createRouter({
     history: createWebHashHistory(),
@@ -28,9 +28,9 @@ const router = createRouter({
             component: DataPeminjam
         },
         {
-            path: '/riwayatpeminjaman',
-            name: "riwayatpeminjaman",
-            component: RiwayatPeminjaman
+            path: '/riwayatpengembalian',
+            name: "riwayatpengembalian",
+            component: RiwayatPengembalian
         }            
     ]
 })
