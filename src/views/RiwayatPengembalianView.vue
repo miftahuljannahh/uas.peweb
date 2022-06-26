@@ -1,6 +1,6 @@
 <template>
   <div class="container mt-5">
-        <h2>Riwayat Peminjam</h2>
+        <h2>Riwayat Pengembalian</h2>
   <div class="container">
     <table class="table table-hover">
     <thead>
